@@ -1,4 +1,5 @@
 require.config({
+	//baseUrl: '', 所有模块基于该前缀
 	paths: {
 		'jquery': '../bower_components/jquery/dist/jquery.min'
 	}
